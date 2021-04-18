@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-md navbar-light bg-light navbar-laravel">
 	<div class="container">
 		<a class="navbar-brand" class="pull-left" href="{{ url('/') }}">
-			<img class="img-responsive2" src="/imgs/logo.png" style="width: 20px;">
+			<img class="img-responsive2" src="public/imgs/logo.png" style="width: 20px;">
 			checkUp
 		</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
